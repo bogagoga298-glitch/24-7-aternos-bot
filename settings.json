@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Blockheads_SMP.aternos.me",
-    "port": 50453",
+    "port": 50453,
     "version": "1.20.1",
     "try-creative": false
   },
